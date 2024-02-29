@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d6523e4e25025447bcc79d03a122400, type: 3}
+  m_Name: Kagura
+  m_EditorClassIdentifier: 
+  name: Kagura
+  durability: 64
+  specialty: 4
+  role: 1
+  abilityEffects: 95
+  difficulty: 88
+  image: {fileID: 21300000, guid: d0d80953c9e32764b87a9913b24f1019, type: 3}
+  attack: 62
+  moves: []
+  imagePath: Sprites/Kagura
